@@ -1,6 +1,7 @@
 # Sys3Raya-main
 Examen de C2-G2 Crear un juego de nombre 3 en raya con una base de datos.
 # Video Explicando "DRIVE" Duracion - 20 min.
+lik: https://drive.google.com/drive/folders/1K0nD-IVsl2RDX35zIFH1fkld8yLGqZDD?usp=sharing
 # Presentación
 Le presento mi aplicación con el cual se puede realizar un juego de 3 en raya.
 Es un aplicación que utiliza algunos patrones de diseño, se introdujo las siguientes Clases de java.
